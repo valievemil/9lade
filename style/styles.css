@@ -85,3 +85,13 @@ h1 {
     height: 500px;
     background: paleturquoise;
 }
+
+.footer {
+    padding: 50px 0;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 0 0 10px royalblue;
+}
