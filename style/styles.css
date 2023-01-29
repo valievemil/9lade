@@ -43,3 +43,29 @@ ul {
     font-size: 20px;
     color: brown;
 }
+
+.header__content {
+    height: 500px;
+    background: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.item {
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+
+.figure {
+    display: flex;
+    gap: 20px
+}
