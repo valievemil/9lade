@@ -69,3 +69,19 @@ h1 {
     display: flex;
     gap: 20px
 }
+
+.main {
+    background: black;
+    height: 100vh;
+}
+
+.main__block {
+    display: flex;
+    gap: 20px;
+}
+
+.main__item {
+    width: 25%;
+    height: 500px;
+    background: paleturquoise;
+}
